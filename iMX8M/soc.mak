@@ -66,7 +66,7 @@ else
 PLAT = imx8mq
 HDMI = yes
 SPL_LOAD_ADDR = 0x7E1000
-TEE_LOAD_ADDR = 0xfe000000
+TEE_LOAD_ADDR = 0xbe000000
 ATF_LOAD_ADDR = 0x00910000
 VAL_BOARD = val
 #define the F(Q)SPI header file
